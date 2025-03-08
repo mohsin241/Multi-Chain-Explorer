@@ -24,20 +24,17 @@ A blockchain explorer that supports multiple networks, including Ethereum, Polyg
 
 1. Clone the repository:
    ```bash
-  git clone https://github.com/your-username/Multi-Chain-Explorer.git
-  ```
-
+   git clone https://github.com/your-username/Multi-Chain-Explorer.git
+   ```
 2. Navigate to the project folder:
    ```bash
-  cd blockchain-explorer/multi-chain-explorer
-  ```
-
+   cd Multi-Chain-Explorer/multi-chain-explorer
+   ```
 3. Install dependencies:
    ```bash
-  npm install
-  ```
-
+   npm install
+   ```
 4. Start the development server:
    ```bash
-  npm run dev
-  ```
+   npm run dev
+   ```
