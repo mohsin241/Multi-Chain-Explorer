@@ -29,6 +29,7 @@ A blockchain explorer that supports multiple networks, including Ethereum, Polyg
 2. Navigate to the project folder:
   ```bash
    cd blockchain-explorer/multi-chain-explorer
+```
 
 3.Install dependencies:
  ```bash
