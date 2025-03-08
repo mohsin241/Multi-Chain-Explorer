@@ -13,9 +13,6 @@ A blockchain explorer that supports multiple networks, including Ethereum, Polyg
 
 ---
 
-
----
-
 ## Setup
 
 ### Prerequisites
@@ -29,25 +26,17 @@ A blockchain explorer that supports multiple networks, including Ethereum, Polyg
    ```bash
    git clone https://github.com/your-username/Multi-Chain-Explorer.git
 
-   Navigate to the project folder:
-
-bash
+2.Navigate to the project folder:
+``bash
 Copy
 cd blockchain-explorer/multi-chain-explorer
-Install dependencies:
 
-bash
+3.Install dependencies:
+``bash
 Copy
 npm install
-Create a .env file in the project root and add your Infura project ID:
 
-env
-Copy
-VITE_INFURA_PROJECT_ID=your-infura-project-id
-Running the Project
-Start the development server:
-
-bash
+4.Start the development server:
+``bash
 Copy
 npm run dev
-Open your browser and navigate to http://localhost:5173.
